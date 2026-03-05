@@ -15,4 +15,4 @@ Busco oportunidades como **Desenvolvedor Backend .NET (Júnior ou Pleno)**.
 
 📫 **Contato**  
 Email: [gabrielfl1997@gmail.com](mailto:gabrielfl1997@gmail.com)  
-LinkedIn: [www.linkedin.com/in/gabrielflima]([www.linkedin.com/in/gabrielflima](https://www.linkedin.com/in/gabrielflima/))
+LinkedIn: [www.linkedin.com/in/gabrielflima](https://www.linkedin.com/in/gabrielflima)
